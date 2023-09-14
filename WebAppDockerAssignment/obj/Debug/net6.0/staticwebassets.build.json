@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x3Whx23H3yPh+cg/hxi9LlJ/5XPNyUC+jH6NePHjeIU=",
+  "Source": "WebAppDockerAssignment",
+  "BasePath": "_content/WebAppDockerAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
